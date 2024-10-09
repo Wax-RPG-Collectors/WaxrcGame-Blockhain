@@ -1,0 +1,10 @@
+flask
+ecdsa
+base58
+web3
+click
+tkinter
+PyQt5
+cryptography
+pyinstaller
+pyscrypt
